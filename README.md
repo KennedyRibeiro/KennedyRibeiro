@@ -1,4 +1,4 @@
-### Hi, my name is kennedy! I'm an IT student. I currently work with computer networks, and I play around creating codes. 👨🏼‍💻💻🌐
+### Hi, my name is Kennedy! I'm an IT student. I currently work with computer networks, and I play around creating codes. 👨🏼‍💻💻🌐
 
 <!--
 **KennedyRibeiro/KennedyRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
